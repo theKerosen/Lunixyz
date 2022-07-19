@@ -26,8 +26,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/lunixyz/lunixyz/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
