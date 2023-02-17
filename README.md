@@ -1,4 +1,4 @@
-<h3 align="left">Hi My name is Coffee Neko and I am from Brazil!</h3>
+<h3 align="left">Hi. My name is Coffee Neko and I am from Brazil!</h3>
 
 ###
 
@@ -29,11 +29,3 @@
 <div align="center">
   <img height="200" src="https://cdn.discordapp.com/attachments/943547363031670785/1075946872289628252/Sem_Titulo-5.png"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lunixyz/Lunixyz/blob/output/snake.svg" alt="Snake animation" />
-
-###
