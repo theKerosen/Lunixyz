@@ -27,5 +27,5 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/943547363031670785/1075946872289628252/Sem_Titulo-5.png"  />
+  <img height="240" src="https://cdn.discordapp.com/attachments/943547363031670785/1120286866445447289/Untitled-1.png"/>
 </div>
