@@ -1,4 +1,4 @@
-<h3 align="left">Hi. My name is Lunx and I am from Brazil!</h3>
+<h3 align="left">Hiyaa! The name's Lun.</h3>
 
 ###
 
