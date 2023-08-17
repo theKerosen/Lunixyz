@@ -4,7 +4,6 @@
 
 <div align="center">
   <img height="240" src="https://cdn.discordapp.com/attachments/943547363031670785/1120286866445447289/Untitled-1.png"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Lunixyz" height="150" alt="languages graph" />
 </div>
 
 ###
