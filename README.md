@@ -1,4 +1,4 @@
-<h3 align="center">Hiyaa! The name's Lun 😊</h3>
+<h3 align="center">Hiyaa! The name's Lunxi! </h3>
 
 ###
 
